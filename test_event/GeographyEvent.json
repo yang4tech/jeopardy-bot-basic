@@ -1,0 +1,16 @@
+{
+  "interpretations": [
+    {
+      "intent": {
+        "slots": {
+          "CategoryName": {
+            "value": {
+              "interpretedValue": "Geography"
+            }
+          }
+        },
+        "name": "PlayNewRound"
+      }
+    }
+  ]
+}
