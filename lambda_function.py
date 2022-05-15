@@ -3,7 +3,7 @@ import random
 import requests
 
 
-""" --- Helpers to call jService API --- """
+""" --- Helpers to call jService (https://jservice.io/) --- """
 
 
 def get_question(category):
