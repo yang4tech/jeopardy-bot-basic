@@ -1,4 +1,4 @@
 # jeopardy-bot-basic
 ## How to implement (explained in Chinese)
-- [YouTube](https://youtu.be/ciRd1WKcSNA)
-- [Blog](https://aprilyang.home.blog/2022/05/14/lex-jeopardy-bot-1/)
+- <a href="https://aprilyang.home.blog/2022/05/14/lex-jeopardy-bot-1/" target="_blank">Blog</a>
+- <a href="https://youtu.be/ciRd1WKcSNA" target="_blank">YouTube</a>
